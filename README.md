@@ -27,9 +27,7 @@ This project applies the Chi-Square Test For Independence to analyze the perform
 ## Analysing The Results
 
 * The p-value and Chi-Square statistic were used to determine if the null hypothesis should be rejected.
-* The project provides python code to automate the result analysis.
 
 ## Discussion
 
 * The analysis suggests that the higher cost mailer did not significantly increase signup rates compared to the lower cost mailer.
-* Further A/B testing with more data is recommended for a more robust conclusion.
